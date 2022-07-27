@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+## Data dictionary in R
+I am really not a fan of repetitive, mindless tasks and therefore found the creation of a data dictionary was often something I would skip over, only to find myself irritated by the lack of it. I couldn't find a package that easily created the kind of metadata that I wanted, so I wrote one.
+
+The `datadictionary` package builds a tabular summaries of the overall dataset and each variable with class-appropriate summaries. You can add labels if you wish, identify id variables and export directly to Excel.
+
+If you have suggestions or requests, or if you had unexpected output, I'd love to hear from you.
+
+You can download it from CRAN using `install.packages("datadictionary")`
+
+
+You can also install the development version from Github using
+`devtools::install_github(DoctorBJones/datadictionary)`
+
+
+[datadictionary Github](https://github.com/DoctorBJones/datadictionary)
+
+[datadictionary CRAN](https://cran.r-project.org/web/packages/datadictionary/index.html)

@@ -1,0 +1,23 @@
+---
+title: "BJ"
+about:
+  template: jolla
+  image: headshot.jpg
+  links: 
+    - icon: github
+      href: https://github.com/DoctorBJones
+    - icon: twitter
+      href: https://twitter.com/dr_b_jones
+    - icon: linkedin
+      href: https://linkedin.com/in/bethanyajones
+---
+
+### Research design and analysis
+I design and analyse research in public policy with a focus on randomised controlled trials (RCTs). I also advise on research ethics.
+
+### Training
+I conduct seminars, workshops and internal courses to help build capability in research ethics, research design and R.
+
+[CV](https://docs.google.com/document/d/1_syP0AsJAJZXYcwqo_K5vfXoNGkO-_8bsPtS_kXmh8s/edit?usp=sharing)
+
+
